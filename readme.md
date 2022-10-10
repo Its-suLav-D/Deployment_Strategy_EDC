@@ -16,7 +16,7 @@ This will be the place where policy/contract creation, and data transfer would o
 
 I have made a short video demonstration by running an instance of the application in my local environment. This video demonstrates contract negotiation and data transfer between two entities or companies.
 
-[Demonstration Video ECD Local Environment](https://www.loom.com/share/5554bf963e404592b5139fdd259ad80a)
+<a href="https://www.loom.com/share/5554bf963e404592b5139fdd259ad80a" target="_blank"> Demonstration Video ECD Local Environment</a>
 
 Might want to increase the playback speed to 1.5x
 
